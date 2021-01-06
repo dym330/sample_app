@@ -92,3 +92,9 @@ main{
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+
+.new-form {
+  color: blue;
+  border-bottom: solid 1px #000000;
+  padding-bottom: 30px;
+}
